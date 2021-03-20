@@ -84,3 +84,5 @@ def tictactoe_game(mode='HUMAN-HUMAN'):
         
 
 tictactoe_game(mode='HUMAN-HUMAN')
+
+#Game mode with AI will be developed in the future
