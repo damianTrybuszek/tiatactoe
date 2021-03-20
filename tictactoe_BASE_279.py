@@ -82,8 +82,5 @@ def tictactoe_game(mode='HUMAN-HUMAN'):
             break
         player = "O" if player == "X" else "X"
         
+
 tictactoe_game(mode='HUMAN-HUMAN')
-
-
-"Ai will be implemente by using MiniMax algorithm." 
-

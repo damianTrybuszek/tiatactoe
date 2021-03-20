@@ -84,6 +84,4 @@ def tictactoe_game(mode='HUMAN-HUMAN'):
         
 tictactoe_game(mode='HUMAN-HUMAN')
 
-
 "Ai will be implemente by using MiniMax algorithm." 
-
